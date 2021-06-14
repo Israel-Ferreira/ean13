@@ -1,4 +1,4 @@
-package main
+package ean13
 
 import (
 	"fmt"
